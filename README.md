@@ -14,7 +14,7 @@ https://kdocs.cn/l/cmqB5kYnODzN
 https://kdocs.cn/l/cp7ppdbff6Yw
 
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/qq198812/heroku.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/761b/Heroku.git)
 https://dashboard.heroku.com/new?template=
 
 ### heroku上部署v2ray
@@ -26,7 +26,7 @@ https://dashboard.heroku.com/new?template=
 
 请求`/`，返回3D元素周期表
 
-![image](https://cdn.jsdelivr.net/gh/DaoChen6/Heroku-v2ray/doc/1.png)
+![image](https://cdn.jsdelivr.net/gh/761b/Heroku/doc/1.png)
 
 请求`/speedtest/`，html5-speedtest测速页面
 
